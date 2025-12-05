@@ -6,4 +6,6 @@ Hello! My second project is on this account, I want to introduce you to it.: Thi
 3. The "play again" button to restart the game without closing the window. 
 4. Attempt counter and hints.
 ## Screenshot
-![Game screenshot](images/screenshot.png)
+![Game screenshot](images/screenchot.png)
+## Code ('guess_game.py)
+**My game's code —>** [guess_game.py](guess_game.py)
